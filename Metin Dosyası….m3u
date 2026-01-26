@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BONCUK TV.tr" tvg-name="BONCUK TV FHD (1)" tvg-logo="http://104.238.23.221:82/boncuktv/Depo/live/logo/logo.png" group-title="",
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+
+#EXTM3U
 #EXTINF:-1,Fusion TV
 http://162.212.179.32/akamaissh101/ssh101/084952510aa/playlist.m3u8
 

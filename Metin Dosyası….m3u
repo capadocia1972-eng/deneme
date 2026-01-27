@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BONCUK TV.tr" tvg-name="BONCUK TV FHD (1)" tvg-logo="http://104.238.23.221:82/boncuktv/Depo/live/logo/logo.png" group-title="",
-http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+
 
 #EXTM3U
 #EXTINF:-1,Fusion TV
@@ -11,6 +9,9 @@ https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
 
 #EXTINF:-1,Fusion Türk
 http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BONCUK TV.tr" tvg-name="BONCUK TV FHD (1)" tvg-logo="http://104.238.23.221:82/boncuktv/Depo/live/logo/logo.png" group-title="",
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1 (Alternatif)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
